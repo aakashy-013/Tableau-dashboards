@@ -1,0 +1,406 @@
+No.,Constituency,Name,Party,Alliance,Remarks,District
+1,Behat,Umar Ali Khan,Samajwadi Party,SP+,,Saharanpur 
+2,Nakur,Mukesh Choudhary,Bharatiya Janata Party,NDA,,Saharanpur 
+3,Saharanpur Nagar,Rajiv Gumber,Bharatiya Janata Party,NDA,,Saharanpur 
+4,Saharanpur,Ashu Malik,Samajwadi Party,SP+,,Saharanpur 
+5,Deoband,Brijesh Singh Rawat,Bharatiya Janata Party,NDA,MOS,Saharanpur 
+6,Rampur Maniharan (SC),Devendra Kumar Nim,Bharatiya Janata Party,NDA,,Saharanpur 
+7,Gangoh,Kirat Singh Gurjar,Bharatiya Janata Party,NDA,,Saharanpur 
+8,Kairana,Nahid Hasan,Samajwadi Party,SP+,,Shamli 
+9,Thana Bhawan,Ashraf Ali Khan,Rashtriya Lok Dal,SP+,,Shamli 
+10,Shamli,Persann Kumar Choudhary,Rashtriya Lok Dal,SP+,,Shamli 
+11,Budhana,Rajpal Singh Baliyan,Rashtriya Lok Dal,SP+,,Muzaffarnagar 
+12,Charthawal,Pankaj Kumar Malik,Samajwadi Party,SP+,,Muzaffarnagar 
+13,Purqazi (SC),Anil Kumar,Rashtriya Lok Dal,SP+,,Muzaffarnagar 
+14,Muzaffarnagar,Kapil Dev Aggarwal,Bharatiya Janata Party,NDA,MOS (I/C),Muzaffarnagar 
+15,Khatauli,Vikram Singh Saini,Bharatiya Janata Party,NDA,,Muzaffarnagar 
+16,Meerapur,Chandan Chauhan,Rashtriya Lok Dal,SP+,,Muzaffarnagar 
+17,Najibabad,Tasleem Ahmed,Samajwadi Party,SP+,,Bijnor 
+18,Nagina (SC),Manoj Kumar Paras,Samajwadi Party,SP+,,Bijnor 
+19,Barhapur,Sushant Kumar,Bharatiya Janata Party,NDA,,Bijnor 
+20,Dhampur,Ashok Kumar Rana,Bharatiya Janata Party,NDA,,Bijnor 
+21,Nehtaur (SC),Om Kumar,Bharatiya Janata Party,NDA,,Bijnor 
+22,Bijnor,Suchi Chaudhary,Bharatiya Janata Party,NDA,,Bijnor 
+23,Chandpur,Swami Omvesh,Samajwadi Party,SP+,,Bijnor 
+24,Noorpur,Ram Avatar Singh,Samajwadi Party,SP+,,Bijnor 
+25,Kanth,Kamal Akhtar,Samajwadi Party,SP+,,Moradabad 
+26,Thakurdwara,Nawab Jan,Samajwadi Party,SP+,,Moradabad 
+27,Moradabad Rural,Mohd Nasir Qureshi,Samajwadi Party,SP+,,Moradabad 
+28,Moradabad Nagar,Ritesh Kumar Gupta,Bharatiya Janata Party,NDA,,Moradabad 
+29,Kundarki,Zia Ur Rehman,Samajwadi Party,SP+,,Moradabad 
+30,Bilari,Mohammad Faheem Irfan,Samajwadi Party,SP+,,Moradabad 
+31,Chandausi (SC),Gulab Devi,Bharatiya Janata Party,NDA,MOS (I/C),Sambhal 
+32,Asmoli,Pinki Singh Yadav,Samajwadi Party,SP+,,Sambhal 
+33,Sambhal,Iqbal Mehmood,Samajwadi Party,SP+,,Sambhal 
+34,Suar,Abdullah Azam Khan,Samajwadi Party,SP+,,Rampur 
+35,Chamraua,Naseer Ahmed Khan,Samajwadi Party,SP+,,Rampur 
+36,Bilaspur,Baldev Singh Aulakh,Bharatiya Janata Party,NDA,MOS,Rampur 
+37,Rampur,Azam Khan,Samajwadi Party,SP+,,Rampur 
+38,Milak (SC),Rajbala,Bharatiya Janata Party,NDA,,Rampur 
+39,Dhanaura (SC),Rajeev Tarara,Bharatiya Janata Party,NDA,,Amroha 
+40,Naugawan Sadat,Samarpal Singh,Samajwadi Party,SP+,,Amroha 
+41,Amroha,Mehboob Ali,Samajwadi Party,SP+,,Amroha 
+42,Hasanpur,Mahender Singh Khadagvanshi,Bharatiya Janata Party,NDA,,Amroha 
+43,Siwalkhas,Ghulam Mohammed,Rashtriya Lok Dal,SP+,,Meerut 
+44,Sardhana,Atul Pradhan,Samajwadi Party,SP+,,Meerut 
+45,Hastinapur,Dinesh Khatik,Bharatiya Janata Party,NDA,MOS,Meerut 
+46,Kithore,Shahid Manzoor,Samajwadi Party,SP+,,Meerut 
+47,Meerut Cantt.,Amit Agarwal,Bharatiya Janata Party,NDA,,Meerut 
+48,Meerut City,Haji Rafiq Ansari,Samajwadi Party,SP+,,Meerut 
+49,Meerut South,Somendra Tomar,Bharatiya Janata Party,NDA,MOS,Meerut 
+50,Chhaprauli,Ajay Kumar Singh,Rashtriya Lok Dal,SP+,,Bagpat 
+51,Baraut,Krishan Pal Malik,Bharatiya Janata Party,NDA,MOS,Bagpat 
+52,Baghpat,Yogesh Dhama,Bharatiya Janata Party,NDA,,Bagpat 
+53,Loni,Nandkishor Gurjar,Bharatiya Janata Party,NDA,,Ghaziabad 
+54,Muradnagar,Ajit Pal Tyagi,Bharatiya Janata Party,NDA,,Ghaziabad 
+55,Sahibabad,Sunil Kumar Sharma,Bharatiya Janata Party,NDA,,Ghaziabad 
+56,Ghaziabad,Atul Garg,Bharatiya Janata Party,NDA,,Ghaziabad 
+57,Modi Nagar,Manju Shivach,Bharatiya Janata Party,NDA,,Ghaziabad 
+58,Dholana,Dharmesh Singh Tomar,Bharatiya Janata Party,NDA,,Hapur 
+59,Hapur,Vijay Pal,Bharatiya Janata Party,NDA,,Hapur 
+60,Garhmukteshwar,Harendra Singh Tewatia,Bharatiya Janata Party,NDA,,Hapur 
+61,Noida,Pankaj Singh,Bharatiya Janata Party,NDA,,Gautam Buddh Nagar 
+62,Dadri,Tejpal Singh Nagar,Bharatiya Janata Party,NDA,,Gautam Buddh Nagar 
+63,Jewar,Dhirendra Singh,Bharatiya Janata Party,NDA,,Gautam Buddh Nagar 
+64,Sikandrabad,Lakshmi Raj Singh,Bharatiya Janata Party,NDA,,Bulandshahr 
+65,Bulandshahr,Pradeep Kumar Chaudhary,Bharatiya Janata Party,NDA,,Bulandshahr 
+66,Syana,Devendra Singh Lodhi,Bharatiya Janata Party,NDA,,Bulandshahr 
+67,Anupshahr,Sanjay Kumar Sharma,Bharatiya Janata Party,NDA,,Bulandshahr 
+68,Debai,Chandrapal Singh,Bharatiya Janata Party,NDA,,Bulandshahr 
+69,Shikarpur,Anil Sharma,Bharatiya Janata Party,NDA,,Bulandshahr 
+70,Khurja (SC),Meenakshi Singh,Bharatiya Janata Party,NDA,,Bulandshahr 
+71,Khair (SC),Anoop Pradhan,Bharatiya Janata Party,NDA,MOS,Aligarh 
+72,Barauli,Thakur Jaivir Singh,Bharatiya Janata Party,NDA,,Aligarh 
+73,Atrauli,Sandeep Kumar Singh,Bharatiya Janata Party,NDA,MOS (I/C),Aligarh 
+74,Chharra,Ravendra Pal Singh,Bharatiya Janata Party,NDA,,Aligarh 
+75,Koil,Anil Parashar,Bharatiya Janata Party,NDA,,Aligarh 
+76,Aligarh,Mukta Raja,Bharatiya Janata Party,NDA,,Aligarh 
+77,Iglas (SC),Rajkumar Sahyogi,Bharatiya Janata Party,NDA,,Aligarh 
+78,Hathras (SC),Anjula Singh Mahor,Bharatiya Janata Party,NDA,,Hathras 
+79,Sadabad,Pradeep Kumar Singh,Rashtriya Lok Dal,SP+,,Hathras 
+80,Sikandra Rao,Birendra Singh Rana,Bharatiya Janata Party,NDA,,Hathras 
+81,Chhata,Chaudhary Laxmi Narayan Singh,Bharatiya Janata Party,NDA,Cabinet Minister,Mathura 
+82,Mant,Rajesh Chaudhary,Bharatiya Janata Party,NDA,,Mathura 
+83,Goverdhan,Meghshyam Singh,Bharatiya Janata Party,NDA,,Mathura 
+84,Mathura,Shrikant Sharma,Bharatiya Janata Party,NDA,,Mathura 
+85,Baldev (SC),Pooran Prakash,Bharatiya Janata Party,NDA,,Mathura 
+86,Etmadpur,Dharampal Singh,Bharatiya Janata Party,NDA,,Agra 
+87,Agra Cantt. (SC),Girraj Singh Dharmesh,Bharatiya Janata Party,NDA,,Agra 
+88,Agra South,Yogendra Upadhyaya,Bharatiya Janata Party,NDA,Cabinet Minister,Agra 
+89,Agra North,Purshottam Khandelwal,Bharatiya Janata Party,NDA,,Agra 
+90,Agra Rural (SC),Baby Rani Maurya,Bharatiya Janata Party,NDA,Cabinet Minister,Agra 
+91,Fatehpur Sikri,Chaudhary Babulal,Bharatiya Janata Party,NDA,,Agra 
+92,Kheragarh,Bhagvan Singh Kushwaha,Bharatiya Janata Party,NDA,,Agra 
+93,Fatehabad,Chotelal Verma,Bharatiya Janata Party,NDA,,Agra 
+94,Bah,Rani Pakshalika Singh,Bharatiya Janata Party,NDA,,Agra 
+95,Tundla (SC),Prempal Singh Dhangar,Bharatiya Janata Party,NDA,,Firozabad 
+96,Jasrana,Sachin Yadav,Samajwadi Party,SP+,,Firozabad 
+97,Firozabad,Manish Asija,Bharatiya Janata Party,NDA,,Firozabad 
+98,Shikohabad,Mukesh Verma,Samajwadi Party,SP+,,Firozabad 
+99,Sirsaganj,Sarvesh Singh Yadav,Samajwadi Party,SP+,,Firozabad 
+100,Kasganj,Devendra Singh Rajput,Bharatiya Janata Party,NDA,,Kasganj 
+101,Amanpur,Hariom Verma,Bharatiya Janata Party,NDA,,Kasganj 
+102,Patiyali,Nadira Sultan,Samajwadi Party,SP+,,Kasganj 
+103,Aliganj,Satyapal Singh Rathore,Bharatiya Janata Party,NDA,,Etah 
+104,Etah,Vipin Kumar David,Bharatiya Janata Party,NDA,,Etah 
+105,Marhara,Virendra Singh Lodhi,Bharatiya Janata Party,NDA,,Etah 
+106,Jalesar (SC),Sanjeev Kumar Diwakar,Bharatiya Janata Party,NDA,,Etah 
+107,Mainpuri,Jaiveer Singh,Bharatiya Janata Party,NDA,Cabinet Minister,Mainpuri 
+108,Bhongaon,Ram Naresh Agnihotri,Bharatiya Janata Party,NDA,,Mainpuri 
+109,Kishni (SC),Brajesh Katheriya,Samajwadi Party,SP+,,Mainpuri 
+110,Karhal,Akhilesh Yadav,Samajwadi Party,SP+,Leader of Opposition,Mainpuri 
+111,Gunnaur,Ramkhiladi Singh Yadav,Samajwadi Party,SP+,,Sambhal 
+112,Bisauli (SC),Ashutosh Maurya,Samajwadi Party,SP+,,Budaun 
+113,Sahaswan,Brajesh Yadav,Samajwadi Party,SP+,,Budaun 
+114,Bilsi,Harish Chandra Shakya,Bharatiya Janata Party,NDA,,Budaun 
+115,Badaun,Mahesh Chandra Gupta,Bharatiya Janata Party,NDA,,Budaun 
+116,Shekhupur,Himanshu Yadav,Samajwadi Party,SP+,,Budaun 
+117,Dataganj,Rajeev Kumar Singh,Bharatiya Janata Party,NDA,,Budaun 
+118,Baheri,Ataur Rehman,Samajwadi Party,SP+,,Bareilly 
+119,Meerganj,D.C. Verma,Bharatiya Janata Party,NDA,,Bareilly 
+120,Bhojipura,Shazil Islam Ansari,Samajwadi Party,SP+,,Bareilly 
+121,Nawabganj,M. P. Arya,Bharatiya Janata Party,NDA,,Bareilly 
+122,Faridpur (SC),Shyam Bihari Lal,Bharatiya Janata Party,NDA,,Bareilly 
+123,Bithari Chainpur,Raghavendra Sharma,Bharatiya Janata Party,NDA,,Bareilly 
+124,Bareilly,Arun Kumar,Bharatiya Janata Party,NDA,MOS (I/C),Bareilly 
+125,Bareilly Cantt,Sanjeev Agarwal,Bharatiya Janata Party,NDA,,Bareilly 
+126,Aonla,Dharmpal Singh,Bharatiya Janata Party,NDA,Cabinet Minister,Bareilly 
+127,Pilibhit,Sanjay Singh Gangwar,Bharatiya Janata Party,NDA,MOS,Pilibhit 
+128,Barkhera,Swami Pravakta Nand,Bharatiya Janata Party,NDA,,Pilibhit 
+129,Puranpur (SC),Babu Ram Paswan,Bharatiya Janata Party,NDA,,Pilibhit 
+130,Bisalpur,Vivek Kumar Verma,Bharatiya Janata Party,NDA,,Pilibhit 
+131,Katra,Veer Vikram Singh,Bharatiya Janata Party,NDA,,Shahjahanpur 
+132,Jalalabad,Hari Prakash Verma,Bharatiya Janata Party,NDA,,Shahjahanpur 
+133,Tilhar,Salona Kushwaha,Bharatiya Janata Party,NDA,,Shahjahanpur 
+134,Powayan (SC),Chetram Pasi,Bharatiya Janata Party,NDA,,Shahjahanpur 
+135,Shahjahanpur,Suresh Kumar Khanna,Bharatiya Janata Party,NDA,Cabinet Minister,Shahjahanpur 
+136,Dadraul,Manvendra Singh,Bharatiya Janata Party,NDA,,Shahjahanpur 
+137,Palia,Harvinder Kumar Sahani,Bharatiya Janata Party,NDA,,Lakhimpur Kheri 
+138,Nighasan,Shashank Verma,Bharatiya Janata Party,NDA,,Lakhimpur Kheri 
+139,Gola Gokarnnath,Arvind Giri,Bharatiya Janata Party,NDA,,Lakhimpur Kheri 
+140,Sri Nagar (SC),Manju Tyagi,Bharatiya Janata Party,NDA,,Lakhimpur Kheri 
+141,Dhaurahra,Vinod Shankar Awasthi,Bharatiya Janata Party,NDA,,Lakhimpur Kheri 
+142,Lakhimpur,Yogesh Verma,Bharatiya Janata Party,NDA,,Lakhimpur Kheri 
+143,Kasta (SC),Saurabh Singh,Bharatiya Janata Party,NDA,,Lakhimpur Kheri 
+144,Mohammadi,Lokendra Pratap Singh,Bharatiya Janata Party,NDA,,Lakhimpur Kheri 
+145,Maholi,Shashank Trivedi,Bharatiya Janata Party,NDA,,Sitapur 
+146,Sitapur,Rakesh Rathore 'Guru',Bharatiya Janata Party,NDA,MOS,Sitapur 
+147,Hargaon (SC),Suresh Rahi,Bharatiya Janata Party,NDA,MOS,Sitapur 
+148,Laharpur,Anil Kumar Verma,Samajwadi Party,SP+,,Sitapur 
+149,Biswan,Nirmal Verma,Bharatiya Janata Party,NDA,,Sitapur 
+150,Sevata,Gyan Tiwari,Bharatiya Janata Party,NDA,,Sitapur 
+151,Mahmoodabad,Asha Maurya,Bharatiya Janata Party,NDA,,Sitapur 
+152,Sidhauli (SC),Manish Rawat,Bharatiya Janata Party,NDA,,Sitapur 
+153,Misrikh (SC),Ram Krishna Bhargava,Bharatiya Janata Party,NDA,,Sitapur 
+154,Sawayazpur,Kunvar Madhavendra Pratap Singh,Bharatiya Janata Party,NDA,,Hardoi 
+155,Shahabad,Rajani Tiwari,Bharatiya Janata Party,NDA,MOS,Hardoi 
+156,Hardoi,Nitin Agarwal,Bharatiya Janata Party,NDA,MOS (I/C),Hardoi 
+157,Gopamau (SC),Shyam Prakash,Bharatiya Janata Party,NDA,,Hardoi 
+158,Sandi (SC),Prabhash Kumar Verma,Bharatiya Janata Party,NDA,,Hardoi 
+159,Bilgram-Mallanwan,Ashish Kumar Singh,Bharatiya Janata Party,NDA,,Hardoi 
+160,Balamau (SC),Ram Pal Verma,Bharatiya Janata Party,NDA,,Hardoi 
+161,Sandila,Alka Singh Arkvanshi,Bharatiya Janata Party,NDA,,Hardoi 
+162,Bangarmau,Shrikant Katiyar,Bharatiya Janata Party,NDA,,Unnao 
+163,Safipur (SC),Bamba Lal Diwakar,Bharatiya Janata Party,NDA,,Unnao 
+164,Mohan (SC),Brijesh Kumar Rawat,Bharatiya Janata Party,NDA,,Unnao 
+165,Unnao,Pankaj Gupta,Bharatiya Janata Party,NDA,,Unnao 
+166,Bhagwantnagar,Ashutosh Shukla,Bharatiya Janata Party,NDA,,Unnao 
+167,Purwa,Anil Singh,Bharatiya Janata Party,NDA,,Unnao 
+168,Malihabad (SC),Jai Devi,Bharatiya Janata Party,NDA,,Lucknow 
+169,Bakshi Kaa Talab,Yogesh Shukla,Bharatiya Janata Party,NDA,,Lucknow 
+170,Sarojini Nagar,Rajeshwar Singh,Bharatiya Janata Party,NDA,,Lucknow 
+171,Lucknow West,Armaan Khan,Samajwadi Party,SP+,,Lucknow 
+172,Lucknow North,Neeraj Bora,Bharatiya Janata Party,NDA,,Lucknow 
+173,Lucknow East,Ashutosh Tandon,Bharatiya Janata Party,NDA,,Lucknow 
+174,Lucknow Central,Ravidas Mehrotra,Samajwadi Party,SP+,,Lucknow 
+175,Lucknow Cantt,Brajesh Pathak,Bharatiya Janata Party,NDA,"Deputy Leader of the House
+(Deputy Chief Minister)",Lucknow 
+176,Mohanlalganj (SC),Amresh Kumar,Bharatiya Janata Party,NDA,,Lucknow 
+177,Bachhrawan (SC),Shyam Sunder Bharti,Samajwadi Party,SP+,,Raebareli 
+178,Tiloi,Mayankeshwar Sharan Singh,Bharatiya Janata Party,NDA,MOS,Amethi 
+179,Harchandpur,Rahul Lodhi,Samajwadi Party,SP+,,Raebareli 
+180,Rae Bareli,Aditi Singh,Bharatiya Janata Party,NDA,,Raebareli 
+181,Salon (SC),Ashok Kumar Kori,Bharatiya Janata Party,NDA,,Raebareli 
+182,Sareni,Devendra Pratap Singh,Samajwadi Party,SP+,,Raebareli 
+183,Unchahar,Manoj Kumar Pandey,Samajwadi Party,SP+,,Raebareli 
+184,Jagdishpur (SC),Suresh Pasi,Bharatiya Janata Party,NDA,,Amethi 
+185,Gauriganj,Rakesh Pratap Singh,Samajwadi Party,SP+,,Amethi 
+186,Amethi,Maharaji Prajapati,Samajwadi Party,SP+,,Amethi 
+187,Isauli,Mohammad Tahir Khan,Samajwadi Party,SP+,,Sultanpur 
+188,Sultanpur,Vinod Singh,Bharatiya Janata Party,NDA,,Sultanpur 
+189,Sultanpur Sadar,Raj Prasad Upadhyay,Bharatiya Janata Party,NDA,,Sultanpur 
+190,Lambhua,Sitaram Verma,Bharatiya Janata Party,NDA,,Sultanpur 
+191,Kadipur (SC),Rajesh Gautam,Bharatiya Janata Party,NDA,,Sultanpur 
+192,Kaimganj (SC),Surabhi,Apna Dal (Sonelal),NDA,,Farrukhabad 
+193,Amritpur,Sushil Kumar Shakya,Bharatiya Janata Party,NDA,,Farrukhabad 
+194,Farrukhabad,Major Sunil Dutt Dwivedi,Bharatiya Janata Party,NDA,,Farrukhabad 
+195,Bhojpur,Nagendra Singh Rathore,Bharatiya Janata Party,NDA,,Farrukhabad 
+196,Chhibramau,Archana Pandey,Bharatiya Janata Party,NDA,,Kannauj 
+197,Tirwa,Kailash Singh Rajput,Bharatiya Janata Party,NDA,,Kannauj 
+198,Kannauj (SC),Asim Arun,Bharatiya Janata Party,NDA,MOS (I/C),Kannauj 
+199,Jaswantnagar,Shivpal Singh Yadav,Samajwadi Party,SP+,,Etawah 
+200,Etawah,Sarita Bhadauria,Bharatiya Janata Party,NDA,,Etawah 
+201,Bharthana (SC),Raghvendra Kumar Singh,Samajwadi Party,SP+,,Etawah 
+202,Bidhuna,Rekha Verma,Samajwadi Party,SP+,,Auraiya 
+203,Dibiyapur,Pradeep Kumar Yadav,Samajwadi Party,SP+,,Auraiya 
+204,Auraiya (SC),Gudiya Katheriya,Bharatiya Janata Party,NDA,,Auraiya 
+205,Rasulabad (SC),Poonam Sankhwar,Bharatiya Janata Party,NDA,,Kanpur Dehat 
+206,Akbarpur-Raniya,Pratibha Shukla,Bharatiya Janata Party,NDA,MOS,Kanpur Dehat 
+207,Sikandra,Ajit Singh Pal,Bharatiya Janata Party,NDA,MOS (I/C),Kanpur Dehat 
+208,Bhognipur,Rakesh Sachan,Bharatiya Janata Party,NDA,Cabinet Minister,Kanpur Dehat 
+209,Bilhaur (SC),Rahul Sonkar,Bharatiya Janata Party,NDA,,Kanpur Nagar 
+210,Bithoor,Abhijeet Singh Sanga,Bharatiya Janata Party,NDA,,Kanpur Nagar 
+211,Kalyanpur,Neelima Katiyar,Bharatiya Janata Party,NDA,,Kanpur Nagar 
+212,Govindnagar,Surendra Maithani,Bharatiya Janata Party,NDA,,Kanpur Nagar 
+213,Sishamau,Haji Irfan Solanki,Samajwadi Party,SP+,,Kanpur Nagar 
+214,Arya Nagar,Amitabh Bajpai,Samajwadi Party,SP+,,Kanpur Nagar 
+215,Kidwai Nagar,Mahesh Trivedi,Bharatiya Janata Party,NDA,,Kanpur Nagar 
+216,Kanpur Cantt,Mohammad Hasan,Samajwadi Party,SP+,,Kanpur Nagar 
+217,Maharajpur,Satish Mahana,Bharatiya Janata Party,NDA,Speaker,Kanpur Nagar 
+218,Ghatampur (SC),Saroj Kureel,Apna Dal (Sonelal),NDA,,Kanpur Nagar 
+219,Madhaugarh,Moolchandra Singh,Bharatiya Janata Party,NDA,,Jalaun 
+220,Kalpi,Vinod Chaturvedi,Samajwadi Party,SP+,,Jalaun 
+221,Orai (SC),Gauri Shankar Verma,Bharatiya Janata Party,NDA,,Jalaun 
+222,Babina,Rajeev Singh Parichha,Bharatiya Janata Party,NDA,,Jhansi 
+223,Jhansi Nagar,Ravi Sharma,Bharatiya Janata Party,NDA,,Jhansi 
+224,Mauranipur (SC),Rashmi Arya,Apna Dal (Sonelal),NDA,,Jhansi 
+225,Garautha,Jawahar Lal Rajput,Bharatiya Janata Party,NDA,,Jhansi 
+226,Lalitpur,Ramratan Kushwaha,Bharatiya Janata Party,NDA,,Lalitpur 
+227,Mehroni (SC),Manohar Lal,Bharatiya Janata Party,NDA,MOS,Lalitpur 
+228,Hamirpur,Manoj Kumar Prajapati,Bharatiya Janata Party,NDA,,Hamirpur 
+229,Rath (SC),Manisha Anuragi,Bharatiya Janata Party,NDA,,Hamirpur 
+230,Mahoba,Rakesh Kumar Goswami,Bharatiya Janata Party,NDA,,Mahoba 
+231,Charkhari,Brijbhushan Rajpoot,Bharatiya Janata Party,NDA,,Mahoba 
+232,Tindwari,Ramkesh Nishad,Bharatiya Janata Party,NDA,MOS,Banda 
+233,Baberu,Vishambhar Singh Yadav,Samajwadi Party,SP+,,Banda 
+234,Naraini (SC),Ommani Verma,Bharatiya Janata Party,NDA,,Banda 
+235,Banda,Prakash Dwivedi,Bharatiya Janata Party,NDA,,Banda 
+236,Chitrakoot,Anil Kumar Pradhan,Samajwadi Party,SP+,,Chitrakoot 
+237,Manikpur,Avinash Chandra Dwivedi,Apna Dal (Sonelal),NDA,,Chitrakoot 
+238,Jahanabad,Rajendra Singh Patel,Bharatiya Janata Party,NDA,,Fatehpur 
+239,Bindki,Jai Kumar Singh Jaiki,Apna Dal (Sonelal),NDA,,Fatehpur 
+240,Fatehpur,Chandra Prakash Lodhi,Samajwadi Party,SP+,,Fatehpur 
+241,Ayah Shah,Vikas Gupta,Bharatiya Janata Party,NDA,,Fatehpur 
+242,Husainganj,Usha Maurya,Samajwadi Party,SP+,,Fatehpur 
+243,Khaga (SC),Krishna Paswan,Bharatiya Janata Party,NDA,,Fatehpur 
+244,Rampur Khas,Aradhana Mishra,Indian National Congress,UPA,Leader (Congress),Pratapgarh 
+245,Babaganj (SC),Vinod Saroj,Jansatta Dal (Loktantrik),Independent,,Pratapgarh 
+246,Kunda,Raghuraj Pratap Singh,Jansatta Dal (Loktantrik),Independent,Leader (JDL),Pratapgarh 
+247,Bishwavnathganj,Jeet Lal Patel,Apna Dal (Sonelal),NDA,,Pratapgarh 
+248,Pratapgarh,Rajendra Kumar Maurya,Bharatiya Janata Party,NDA,,Pratapgarh 
+249,Patti,Ram Singh Patel,Samajwadi Party,SP+,,Pratapgarh 
+250,Raniganj,Rakesh Kumar Verma,Samajwadi Party,SP+,,Pratapgarh 
+251,Sirathu,Pallavi Patel,Samajwadi Party,SP+,,Kaushambi 
+252,Manjhanpur (SC),Indrajeet Saroj,Samajwadi Party,SP+,,Kaushambi 
+253,Chail,Pooja Pal,Samajwadi Party,SP+,,Kaushambi 
+254,Phaphamau,Guru Prasad Maurya,Bharatiya Janata Party,NDA,,Allahabad 
+255,Soraon (SC),Geeta Pasi,Samajwadi Party,SP+,,Allahabad 
+256,Phulpur,Praveen Singh Patel,Bharatiya Janata Party,NDA,,Allahabad 
+257,Pratappur,Vijma Yadav,Samajwadi Party,SP+,,Allahabad 
+258,Handia,Hakim Lal Bind,Samajwadi Party,SP+,,Allahabad 
+259,Meja,Sandeep Singh Patel,Samajwadi Party,SP+,,Allahabad 
+260,Karachhana,Piyush Ranjan Nishad,Bharatiya Janata Party,NDA,,Allahabad 
+261,Allahabad West,Sidharth Nath Singh,Bharatiya Janata Party,NDA,,Allahabad 
+262,Allahabad North,Harshvardhan Bajpai,Bharatiya Janata Party,NDA,,Allahabad 
+263,Allahabad South,Nand Gopal Gupta Nandi,Bharatiya Janata Party,NDA,Cabinet Minister,Allahabad 
+264,Bara (SC),Vachaspati,Apna Dal (Sonelal),NDA,,Allahabad 
+265,Koraon,Rajmani Kol,Bharatiya Janata Party,NDA,,Allahabad 
+266,Kursi,Sakendra Pratap Verma,Bharatiya Janata Party,NDA,,Barabanki 
+267,Ram Nagar,Fareed Mahfooz Kidwai,Samajwadi Party,SP+,,Barabanki 
+268,Barabanki,Dharamraj Singh Yadav,Samajwadi Party,SP+,,Barabanki 
+269,Zaidpur (SC),Gaurav Kumar Rawat,Samajwadi Party,SP+,,Barabanki 
+270,Dariyabad,Satish Chandra Sharma,Bharatiya Janata Party,NDA,MOS,Barabanki 
+271,Rudauli,Ram Chandra Yadav,Bharatiya Janata Party,NDA,,Ayodhya 
+272,Haidergarh (SC),Dinesh Rawat,Bharatiya Janata Party,NDA,,Barabanki 
+273,Milkipur (SC),Awadhesh Prasad,Samajwadi Party,SP+,,Ayodhya 
+274,Bikapur,Amit Singh Chauhan,Bharatiya Janata Party,NDA,,Ayodhya 
+275,Ayodhya,Ved Prakash Gupta,Bharatiya Janata Party,NDA,,Ayodhya 
+276,Goshainganj,Abhay Singh,Samajwadi Party,SP+,,Ayodhya 
+277,Katehari,Lalji Verma,Samajwadi Party,SP+,,Ambedkar Nagar 
+278,Tanda,Ram Murti Verma,Samajwadi Party,SP+,,Ambedkar Nagar 
+279,Alapur (SC),Tribhuvan Dutt,Samajwadi Party,SP+,,Ambedkar Nagar 
+280,Jalalpur,Rakesh Pandey,Samajwadi Party,SP+,,Ambedkar Nagar 
+281,Akbarpur,Ram Achal Rajbhar,Samajwadi Party,SP+,,Ambedkar Nagar 
+282,Balha (SC),Saroj Sonkar,Bharatiya Janata Party,NDA,,Bahraich 
+283,Nanpara,Ram Niwas Verma,Apna Dal (Sonelal),NDA,,Bahraich 
+284,Matera,Mariya Shah,Samajwadi Party,SP+,,Bahraich 
+285,Mahasi,Sureshwar Singh,Bharatiya Janata Party,NDA,,Bahraich 
+286,Bahraich,Anupama Jaiswal,Bharatiya Janata Party,NDA,,Bahraich 
+287,Payagpur,Subhash Tripathi,Bharatiya Janata Party,NDA,,Bahraich 
+288,Kaiserganj,Anand Kumar,Samajwadi Party,SP+,,Bahraich 
+289,Bhinga,Indrani Verma,Samajwadi Party,SP+,,Shravasti 
+290,Shrawasti,Ram Feran Pandey,Bharatiya Janata Party,NDA,,Shravasti 
+291,Tulsipur,Kailash Nath Shukla,Bharatiya Janata Party,NDA,,Balrampur 
+292,Gainsari,Shiv Pratap Yadav,Samajwadi Party,SP+,,Balrampur 
+293,Utraula,Ram Pratap Verma,Bharatiya Janata Party,NDA,,Balrampur 
+294,Balrampur (SC),Paltu Ram,Bharatiya Janata Party,NDA,,Balrampur 
+295,Mehnaun,Vinay Kumar Dwivedi,Bharatiya Janata Party,NDA,,Gonda 
+296,Gonda,Prateek Bhushan Singh,Bharatiya Janata Party,NDA,,Gonda 
+297,Katra Bazar,Bawan Singh,Bharatiya Janata Party,NDA,,Gonda 
+298,Colonelganj,Ajay Pratap Singh,Bharatiya Janata Party,NDA,,Gonda 
+299,Tarabganj,Prem Narayan Pandey,Bharatiya Janata Party,NDA,,Gonda 
+300,Mankapur (SC),Rampati Shastri,Bharatiya Janata Party,NDA,Protem Speaker,Gonda 
+301,Gaura,Prabhat Verma,Bharatiya Janata Party,NDA,,Gonda 
+302,Shohratgarh,Vinay Verma,Apna Dal (Sonelal),NDA,,Siddharthnagar 
+303,Kapilvastu (SC),Shyam Dhani Rahi,Bharatiya Janata Party,NDA,,Siddharthnagar 
+304,Bansi,Jai Pratap Singh,Bharatiya Janata Party,NDA,,Siddharthnagar 
+305,Itwa,Mata Prasad Pandey,Samajwadi Party,SP+,,Siddharthnagar 
+306,Domariyaganj,Saiyada Khatoon,Samajwadi Party,SP+,,Siddharthnagar 
+307,Harraiya,Ajay Kumar Singh,Bharatiya Janata Party,NDA,,Basti 
+308,Kaptanganj,Kavindra Chaudhary,Samajwadi Party,SP+,,Basti 
+309,Rudhauli,Rajendra Prasad Chaudhary,Samajwadi Party,SP+,,Basti 
+310,Basti Sadar,Mahendra Nath Yadav,Samajwadi Party,SP+,,Basti 
+311,Mahadewa (SC),Doodhram,Suheldev Bharatiya Samaj Party,SP+,,Basti 
+312,Menhdawal,Anil Kumar Tripathi,NISHAD Party,NDA,,Sant Kabir Nagar 
+313,Khalilabad,Ankur Raj Tiwari,Bharatiya Janata Party,NDA,,Sant Kabir Nagar 
+314,Dhanghata (SC),Ganesh Chandra Chauhan,Bharatiya Janata Party,NDA,,Sant Kabir Nagar 
+315,Pharenda,Virendra Chaudhary,Indian National Congress,UPA,,Maharajganj 
+316,Nautanwa,Rishi Tripathi,NISHAD Party,NDA,,Maharajganj 
+317,Siswa,Prem Sagar Patel,Bharatiya Janata Party,NDA,,Maharajganj 
+318,Maharajganj (SC),Jai Mangal Kanojiya,Bharatiya Janata Party,NDA,,Maharajganj 
+319,Paniyara,Gyanendra Singh,Bharatiya Janata Party,NDA,,Maharajganj 
+320,Caimpiyarganj,Fateh Bahadur Singh,Bharatiya Janata Party,NDA,,Gorakhpur 
+321,Pipraich,Mahendra Pal Singh,Bharatiya Janata Party,NDA,,Gorakhpur 
+322,Gorakhpur Urban,Yogi Adityanath,Bharatiya Janata Party,NDA,"Leader of the House
+(Chief Minister)",Gorakhpur 
+323,Gorakhpur Rural,Bipin Singh,Bharatiya Janata Party,NDA,,Gorakhpur 
+324,Sahajanwa,Pradeep Shukla,Bharatiya Janata Party,NDA,,Gorakhpur 
+325,Khajani (SC),Sriram Chauhan,Bharatiya Janata Party,NDA,,Gorakhpur 
+326,Chauri-Chaura,Sarvan Kumar Nishad,Bharatiya Janata Party,NDA,,Gorakhpur 
+327,Bansgaon (SC),Vimlesh Paswan,Bharatiya Janata Party,NDA,,Gorakhpur 
+328,Chillupar,Rajesh Tripathi,Bharatiya Janata Party,NDA,,Gorakhpur 
+329,Khadda,Viveka Nand Pandey,NISHAD Party,NDA,,Kushinagar 
+330,Padrauna,Manish Jaiswal,Bharatiya Janata Party,NDA,,Kushinagar 
+331,Tamkuhi Raj,Asim Kumar,Bharatiya Janata Party,NDA,,Kushinagar 
+332,Fazilnagar,Surendra Kumar Kushwaha,Bharatiya Janata Party,NDA,,Kushinagar 
+333,Kushinagar,Panchanand Pathak,Bharatiya Janata Party,NDA,,Kushinagar 
+334,Hata,Mohan Verma,Bharatiya Janata Party,NDA,,Kushinagar 
+335,Ramkola (SC),Vinay Prakash Gond,Bharatiya Janata Party,NDA,,Kushinagar 
+336,Rudrapur,Jai Prakash Nishad,Bharatiya Janata Party,NDA,,Deoria 
+337,Deoria,Shalabh Mani Tripathi,Bharatiya Janata Party,NDA,,Deoria 
+338,Pathardeva,Surya Pratap Shahi,Bharatiya Janata Party,NDA,Cabinet Minister,Deoria 
+339,Rampur Karkhana,Surendra Chaurasia,Bharatiya Janata Party,NDA,,Deoria 
+340,Bhatpar Rani,Sabhakunwar Kushwaha,Bharatiya Janata Party,NDA,,Deoria 
+341,Salempur (SC),Vijaylaxmi Gautam,Bharatiya Janata Party,NDA,MOS,Deoria 
+342,Barhaj,Deepak Mishra,Bharatiya Janata Party,NDA,,Deoria 
+343,Atrauliya,Sangram Yadav,Samajwadi Party,SP+,,Azamgarh 
+344,Gopalpur,Nafees Ahmad,Samajwadi Party,SP+,,Azamgarh 
+345,Sagri,Hriday Narayan Singh Patel,Samajwadi Party,SP+,,Azamgarh 
+346,Mubarakpur,Akhilesh Yadav,Samajwadi Party,SP+,,Azamgarh 
+347,Azamgarh,Durga Prasad Yadav,Samajwadi Party,SP+,,Azamgarh 
+348,Nizamabad,Alambadi,Samajwadi Party,SP+,,Azamgarh 
+349,Phoolpur Pawai,Ramakant Yadav,Samajwadi Party,SP+,,Azamgarh 
+350,Didarganj,Kamalkant Rajbhar,Samajwadi Party,SP+,,Azamgarh 
+351,Lalganj (SC),Bechai Saroj,Samajwadi Party,SP+,,Azamgarh 
+352,Mehnagar (SC),Puja Saroj,Samajwadi Party,SP+,,Azamgarh 
+353,Madhuban,Ram Vilash Chauhan,Bharatiya Janata Party,NDA,,Mau 
+354,Ghosi,Dara Singh Chauhan,Samajwadi Party,SP+,,Mau 
+355,Muhammadabad-Gohna (SC),Rajendra Kumar,Samajwadi Party,SP+,,Mau 
+356,Mau,Abbas Ansari,Suheldev Bharatiya Samaj Party,SP+,,Mau 
+357,Belthara Road (SC),Hansu Ram,Suheldev Bharatiya Samaj Party,SP+,,Ballia 
+358,Rasara,Umashankar Singh,Bahujan Samaj Party,BSP,,Ballia 
+359,Sikanderpur,Mohammed Ziauddin Rizvi,Samajwadi Party,SP+,,Ballia 
+360,Phephana,Sangram Singh,Samajwadi Party,SP+,,Ballia 
+361,Ballia Nagar,Daya Shankar Singh,Bharatiya Janata Party,NDA,MOS (I/C),Ballia 
+362,Bansdih,Ketakee Singh,Bharatiya Janata Party,NDA,,Ballia 
+363,Bairia,Jai Prakash Anchal,Samajwadi Party,SP+,,Ballia 
+364,Badlapur,Ramesh Chandra Mishra,Bharatiya Janata Party,NDA,,Jaunpur 
+365,Shahganj,Ramesh Singh,NISHAD Party,NDA,,Jaunpur 
+366,Jaunpur,Girish Chandra Yadav,Bharatiya Janata Party,NDA,MOS (I/C),Jaunpur 
+367,Malhani,Lucky Yadav,Samajwadi Party,SP+,,Jaunpur 
+368,Mungra Badshahpur,Pankaj Patel,Samajwadi Party,SP+,,Jaunpur 
+369,Machhlishahr (SC),Ragini Sonkar,Samajwadi Party,SP+,,Jaunpur 
+370,Mariyahu,R.K. Patel,Apna Dal (Sonelal),NDA,,Jaunpur 
+371,Zafrabad,Jagdish Narayan Rai,Suheldev Bharatiya Samaj Party,SP+,,Jaunpur 
+372,Kerakat (SC),Tufani Saroj,Samajwadi Party,SP+,,Jaunpur 
+373,Jakhanian (SC),Bedi Ram,Suheldev Bharatiya Samaj Party,SP+,,Ghazipur 
+374,Saidpur (SC),Ankit Bharti,Samajwadi Party,SP+,,Ghazipur 
+375,Ghazipur Sadar,Jai Kishan Sahu,Samajwadi Party,SP+,,Ghazipur 
+376,Jangipur,Virendra Kumar Yadav,Samajwadi Party,SP+,,Ghazipur 
+377,Zahoorabad,Om Prakash Rajbhar,Suheldev Bharatiya Samaj Party,SP+,Leader (SBSP),Ghazipur 
+378,Mohammadabad,Suhaib Ansari,Samajwadi Party,SP+,,Ghazipur 
+379,Zamania,Om Prakash Singh,Samajwadi Party,SP+,,Ghazipur 
+380,Mughalsarai,Ramesh Jaiswal,Bharatiya Janata Party,NDA,,Chandauli 
+381,Sakaldiha,Prabhunarayan Yadav,Samajwadi Party,SP+,,Chandauli 
+382,Saiyadraja,Sushil Singh,Bharatiya Janata Party,NDA,,Chandauli 
+383,Chakia (SC),Kailash Kharvar,Bharatiya Janata Party,NDA,,Chandauli 
+384,Pindra,Avadhesh Singh,Bharatiya Janata Party,NDA,,Varanasi 
+385,Ajagara (SC),Tribhuvan Ram,Bharatiya Janata Party,NDA,,Varanasi 
+386,Shivpur,Anil Rajbhar,Bharatiya Janata Party,NDA,Cabinet Minister,Varanasi 
+387,Rohaniya,Sunil Patel,Apna Dal (Sonelal),NDA,,Varanasi 
+388,Varanasi North,Ravindra Jaiswal,Bharatiya Janata Party,NDA,MOS (I/C),Varanasi 
+389,Varanasi South,Neelkanth Tiwari,Bharatiya Janata Party,NDA,,Varanasi 
+390,Varanasi Cantonment,Saurabh Srivastava,Bharatiya Janata Party,NDA,,Varanasi 
+391,Sevapuri,Neel Ratan Singh Patel Neelu,Bharatiya Janata Party,NDA,,Varanasi 
+392,Bhadohi,Zahid Beg,Samajwadi Party,SP+,,Bhadohi 
+393,Gyanpur,Vipul Dubey,NISHAD Party,NDA,,Bhadohi 
+394,Aurai (SC),Dinanath Bhaskar,Bharatiya Janata Party,NDA,,Bhadohi 
+395,Chhanbey (SC),Rahul Prakash Kol,Apna Dal (Sonelal),NDA,,Mirzapur 
+396,Mirzapur,Ratnakar Mishra,Bharatiya Janata Party,NDA,,Mirzapur 
+397,Majhawan,Vinod Kumar Bind,NISHAD Party,NDA,,Mirzapur 
+398,Chunar,Anurag Singh,Bharatiya Janata Party,NDA,,Mirzapur 
+399,Marihan,Rama Shankar Singh,Bharatiya Janata Party,NDA,,Mirzapur 
+400,Ghorawal,Anil Kumar Maurya,Bharatiya Janata Party,NDA,,Sonbhadra 
+401,Robertsganj,Bhupesh Chaubey,Bharatiya Janata Party,NDA,,Sonbhadra 
+402,Obra (ST),Sanjiv Kumar Gond,Bharatiya Janata Party,NDA,MOS,Sonbhadra 
+403,Duddhi (ST),Ramdular Gaur,Bharatiya Janata Party,NDA,,Sonbhadra 
